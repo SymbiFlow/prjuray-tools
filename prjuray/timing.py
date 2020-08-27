@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+#
 # Copyright (C) 2020  The Project U-Ray Authors.
 #
 # Use of this source code is governed by a ISC-style

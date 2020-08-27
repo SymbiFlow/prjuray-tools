@@ -9,7 +9,6 @@
 #
 # SPDX-License-Identifier: ISC
 
-
 # Break frames into WORD_SIZE bit words.
 WORD_SIZE_BITS = 16
 
