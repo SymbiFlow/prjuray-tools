@@ -11,7 +11,7 @@
 
 from collections import namedtuple
 from . import bitstream
-from .grid import BlockType
+from .grid_types import BlockType
 import enum
 
 
