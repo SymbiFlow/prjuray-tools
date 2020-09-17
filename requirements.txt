@@ -1,5 +1,4 @@
 pytest
 virtualenv
 yapf==0.24.0
-intervaltree
-simplejson
+-e ./
